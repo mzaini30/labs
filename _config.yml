@@ -1,6 +1,6 @@
 # Site Settings
-baseurl: ""
-url : "https://naye0ng.github.io"
+baseurl: "/labs"
+url : "https://mzaini30.com"
 
 # Blog Settings
 theme_settings :
