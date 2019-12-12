@@ -1,6 +1,6 @@
 # Site Settings
-baseurl: ""
-url : "https://mzaini30.com/labs"
+baseurl: "https://mzaini30.com/labs"
+url : ""
 
 # Blog Settings
 theme_settings :
