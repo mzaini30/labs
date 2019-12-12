@@ -4,40 +4,40 @@ url : "https://mzaini30.com"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Labs Zen
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Zen
+    description : developer Android.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2015-01-01
+        end : 2019-12-13
+        experience : freelance, Android developer
     skills : 
       - skill : HTML5 & CSS
-        value : 85  # Percent value
+        value : 90  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email: muhzaini30@gmail.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: mzaini30
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
+    twitter: mzaini30
     youtube:
-    facebook:
-    instagram:
+    facebook: mzaini30
+    instagram: mzaini30
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname : labszen
 
 # Pagination
-paginate: 5
+paginate: 25
 paginate_path: "blog/page:num"
 
 # Build Ssttings
