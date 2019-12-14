@@ -17,8 +17,24 @@ theme_settings :
         end : 2019-12-13
         experience : freelance, Android developer
     skills : 
-      - skill : HTML5 & CSS
-        value : 90  # Percent value
+      - skill : HTML
+        value : 80  # Percent value
+      - skill : CSS
+        value : 70  # Percent value
+      - skill : jQuery
+        value : 50  # Percent value
+      - skill : Vanilla Javascript
+        value : 30  # Percent value
+      - skill : Ruby
+        value : 10  # Percent value
+      - skill : Python
+        value : 60  # Percent value
+      - skill : Bash
+        value : 40  # Percent value
+      - skill : Node JS
+        value : 5  # Percent value
+      - skill : Batch
+        value : 80  # Percent value
         
   # Icons
   icons :
